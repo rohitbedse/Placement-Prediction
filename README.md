@@ -43,6 +43,4 @@ A simple web application that predicts whether a student will be placed based on
 - Add more features like additional input fields (e.g., extracurricular activities).
 - Deploy the application to a cloud platform.
 
----
 
-This `README.md` is concise and provides all necessary instructions to set up and run the project. Let me know if you'd like to adjust anything!
